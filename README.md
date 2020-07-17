@@ -6,3 +6,5 @@
 
 ## AVSync
 1. ExoPlayer-avsync机制
+2. NuPlayer-avsync机制
+
